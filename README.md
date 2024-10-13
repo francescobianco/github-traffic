@@ -1,161 +1,161 @@
 # francescobianco (traffic)
 [![Traffic Update](https://github.com/javanile/github-traffic/actions/workflows/update.yml/badge.svg)](https://github.com/javanile/github-traffic/actions/workflows/update.yml)
-![Last Update](https://img.shields.io/badge/Last%20Update-2024--10--06%2008%3A24%3A55%20UTC-blue)  
+![Last Update](https://img.shields.io/badge/Last%20Update-2024--10--13%2008%3A25%3A23%20UTC-blue)  
 This project collects all data of incoming traffic to our organization  
 
 | Rank | Repository | Uniques | Views | Sources | Trend |
 |:----:|------------|:-----:|:-------:|:-------:|:-----:|
-| 1 | [francescobianco/spotlight.yafb.net](https://github.com/francescobianco/spotlight.yafb.net) | 2 | 7 | 2 | 🟩 |
-| 2 | [francescobianco/devops-score](https://github.com/francescobianco/devops-score) | 1 | 15 | 1 |  |
-| 3 | [francescobianco/books.yafb.net](https://github.com/francescobianco/books.yafb.net) | 1 | 10 | 1 | 🟥 |
-| 4 | [francescobianco/scrum](https://github.com/francescobianco/scrum) | 1 | 10 | 1 |  |
-| 5 | [francescobianco/francescobianco.github.io](https://github.com/francescobianco/francescobianco.github.io) | 1 | 4 | 1 |  |
-| 6 | [francescobianco/meet.yafb.net](https://github.com/francescobianco/meet.yafb.net) | 1 | 4 | 1 |  |
-| 7 | [francescobianco/cheshire-cat](https://github.com/francescobianco/cheshire-cat) | 1 | 2 | 1 | 🟩 |
-| 8 | [francescobianco/hardcode.blog](https://github.com/francescobianco/hardcode.blog) | 1 | 2 | 1 | 🟥 |
-| 9 | [francescobianco/openvpn-for-windows](https://github.com/francescobianco/openvpn-for-windows) | 1 | 2 | 1 |  |
-| 10 | [francescobianco/black-sabbath](https://github.com/francescobianco/black-sabbath) | 1 | 1 | 1 | 🟥 |
-| 11 | [francescobianco/github.yafb.net](https://github.com/francescobianco/github.yafb.net) | 1 | 1 | 1 | 🟩 |
-| 12 | [francescobianco/vintage](https://github.com/francescobianco/vintage) | 1 | 1 | 1 | 🟩 |
-| 13 | [francescobianco/.github](https://github.com/francescobianco/.github) | 0 | 0 | 0 | 🟩 |
-| 14 | [francescobianco/Slim-Symfony-Dic](https://github.com/francescobianco/Slim-Symfony-Dic) | 0 | 0 | 0 | 🟩 |
-| 15 | [francescobianco/TB-7504X](https://github.com/francescobianco/TB-7504X) | 0 | 0 | 0 | 🟥 |
-| 16 | [francescobianco/Thaiane](https://github.com/francescobianco/Thaiane) | 0 | 0 | 0 |  |
-| 17 | [francescobianco/WikiDocs](https://github.com/francescobianco/WikiDocs) | 0 | 0 | 0 |  |
-| 18 | [francescobianco/acc](https://github.com/francescobianco/acc) | 0 | 0 | 0 |  |
-| 19 | [francescobianco/age-of-developers](https://github.com/francescobianco/age-of-developers) | 0 | 0 | 0 |  |
-| 20 | [francescobianco/alphabetor](https://github.com/francescobianco/alphabetor) | 0 | 0 | 0 |  |
-| 21 | [francescobianco/arxiv](https://github.com/francescobianco/arxiv) | 0 | 0 | 0 |  |
-| 22 | [francescobianco/asdf](https://github.com/francescobianco/asdf) | 0 | 0 | 0 |  |
-| 23 | [francescobianco/assets](https://github.com/francescobianco/assets) | 0 | 0 | 0 |  |
-| 24 | [francescobianco/awesome](https://github.com/francescobianco/awesome) | 0 | 0 | 0 |  |
-| 25 | [francescobianco/awesome-api](https://github.com/francescobianco/awesome-api) | 0 | 0 | 0 |  |
-| 26 | [francescobianco/awesome-bash](https://github.com/francescobianco/awesome-bash) | 0 | 0 | 0 |  |
-| 27 | [francescobianco/awesome-cpp](https://github.com/francescobianco/awesome-cpp) | 0 | 0 | 0 |  |
-| 28 | [francescobianco/awesome-ddd](https://github.com/francescobianco/awesome-ddd) | 0 | 0 | 0 |  |
-| 29 | [francescobianco/awesome-documentation-tools](https://github.com/francescobianco/awesome-documentation-tools) | 0 | 0 | 0 |  |
-| 30 | [francescobianco/awesome-italia-opensource](https://github.com/francescobianco/awesome-italia-opensource) | 0 | 0 | 0 |  |
-| 31 | [francescobianco/awesome-javascript](https://github.com/francescobianco/awesome-javascript) | 0 | 0 | 0 |  |
-| 32 | [francescobianco/awesome-nocode-lowcode](https://github.com/francescobianco/awesome-nocode-lowcode) | 0 | 0 | 0 |  |
-| 33 | [francescobianco/awesome-nocode-lowcode-1](https://github.com/francescobianco/awesome-nocode-lowcode-1) | 0 | 0 | 0 |  |
-| 34 | [francescobianco/awesome-openapi3](https://github.com/francescobianco/awesome-openapi3) | 0 | 0 | 0 |  |
-| 35 | [francescobianco/awesome-php](https://github.com/francescobianco/awesome-php) | 0 | 0 | 0 |  |
-| 36 | [francescobianco/awesome-rest](https://github.com/francescobianco/awesome-rest) | 0 | 0 | 0 |  |
-| 37 | [francescobianco/awesome-shell](https://github.com/francescobianco/awesome-shell) | 0 | 0 | 0 |  |
-| 38 | [francescobianco/awesome-shell-1](https://github.com/francescobianco/awesome-shell-1) | 0 | 0 | 0 |  |
-| 39 | [francescobianco/awesome-swagger](https://github.com/francescobianco/awesome-swagger) | 0 | 0 | 0 |  |
-| 40 | [francescobianco/awesome-swagger-1](https://github.com/francescobianco/awesome-swagger-1) | 0 | 0 | 0 |  |
-| 41 | [francescobianco/awesome-term-analysis](https://github.com/francescobianco/awesome-term-analysis) | 0 | 0 | 0 |  |
-| 42 | [francescobianco/awesome-vtiger](https://github.com/francescobianco/awesome-vtiger) | 0 | 0 | 0 |  |
-| 43 | [francescobianco/awesome-webrequest](https://github.com/francescobianco/awesome-webrequest) | 0 | 0 | 0 |  |
-| 44 | [francescobianco/awesome-yaml](https://github.com/francescobianco/awesome-yaml) | 0 | 0 | 0 |  |
-| 45 | [francescobianco/awesome-yaml-1](https://github.com/francescobianco/awesome-yaml-1) | 0 | 0 | 0 |  |
-| 46 | [francescobianco/aws-sdk-php-laravel](https://github.com/francescobianco/aws-sdk-php-laravel) | 0 | 0 | 0 |  |
-| 47 | [francescobianco/bash-google-cloud-access-token](https://github.com/francescobianco/bash-google-cloud-access-token) | 0 | 0 | 0 |  |
-| 48 | [francescobianco/bashcov](https://github.com/francescobianco/bashcov) | 0 | 0 | 0 |  |
-| 49 | [francescobianco/bashunit](https://github.com/francescobianco/bashunit) | 0 | 0 | 0 |  |
-| 50 | [francescobianco/bashzine](https://github.com/francescobianco/bashzine) | 0 | 0 | 0 |  |
-| 51 | [francescobianco/bats-core](https://github.com/francescobianco/bats-core) | 0 | 0 | 0 |  |
-| 52 | [francescobianco/beautiful-jekyll](https://github.com/francescobianco/beautiful-jekyll) | 0 | 0 | 0 |  |
-| 53 | [francescobianco/bfetch](https://github.com/francescobianco/bfetch) | 0 | 0 | 0 |  |
-| 54 | [francescobianco/bio](https://github.com/francescobianco/bio) | 0 | 0 | 0 |  |
-| 55 | [francescobianco/biofeedback-mindfulness](https://github.com/francescobianco/biofeedback-mindfulness) | 0 | 0 | 0 |  |
-| 56 | [francescobianco/blackbox](https://github.com/francescobianco/blackbox) | 0 | 0 | 0 |  |
-| 57 | [francescobianco/blog.yafb.net](https://github.com/francescobianco/blog.yafb.net) | 0 | 0 | 0 |  |
-| 58 | [francescobianco/books.codementor.it](https://github.com/francescobianco/books.codementor.it) | 0 | 0 | 0 |  |
-| 59 | [francescobianco/bpkg](https://github.com/francescobianco/bpkg) | 0 | 0 | 0 |  |
-| 60 | [francescobianco/bpkg-template](https://github.com/francescobianco/bpkg-template) | 0 | 0 | 0 |  |
-| 61 | [francescobianco/calendar.yafb.net](https://github.com/francescobianco/calendar.yafb.net) | 0 | 0 | 0 |  |
-| 62 | [francescobianco/candycane](https://github.com/francescobianco/candycane) | 0 | 0 | 0 |  |
-| 63 | [francescobianco/cargo](https://github.com/francescobianco/cargo) | 0 | 0 | 0 |  |
-| 64 | [francescobianco/checkstyle](https://github.com/francescobianco/checkstyle) | 0 | 0 | 0 |  |
-| 65 | [francescobianco/clenv](https://github.com/francescobianco/clenv) | 0 | 0 | 0 |  |
-| 66 | [francescobianco/dati.lab.tp.it](https://github.com/francescobianco/dati.lab.tp.it) | 0 | 0 | 0 |  |
-| 67 | [francescobianco/ddeboer-imap](https://github.com/francescobianco/ddeboer-imap) | 0 | 0 | 0 |  |
-| 68 | [francescobianco/deno](https://github.com/francescobianco/deno) | 0 | 0 | 0 |  |
-| 69 | [francescobianco/devices](https://github.com/francescobianco/devices) | 0 | 0 | 0 |  |
-| 70 | [francescobianco/devops](https://github.com/francescobianco/devops) | 0 | 0 | 0 | 🟥 |
-| 71 | [francescobianco/directory.lab.tp.it](https://github.com/francescobianco/directory.lab.tp.it) | 0 | 0 | 0 |  |
-| 72 | [francescobianco/dnsflush](https://github.com/francescobianco/dnsflush) | 0 | 0 | 0 |  |
-| 73 | [francescobianco/docker-compose](https://github.com/francescobianco/docker-compose) | 0 | 0 | 0 |  |
-| 74 | [francescobianco/docker-dummy-sftp-server](https://github.com/francescobianco/docker-dummy-sftp-server) | 0 | 0 | 0 |  |
-| 75 | [francescobianco/docker-novnc](https://github.com/francescobianco/docker-novnc) | 0 | 0 | 0 |  |
-| 76 | [francescobianco/docker-openvpn](https://github.com/francescobianco/docker-openvpn) | 0 | 0 | 0 |  |
-| 77 | [francescobianco/docker-per-windows](https://github.com/francescobianco/docker-per-windows) | 0 | 0 | 0 |  |
-| 78 | [francescobianco/docs](https://github.com/francescobianco/docs) | 0 | 0 | 0 |  |
-| 79 | [francescobianco/documentation](https://github.com/francescobianco/documentation) | 0 | 0 | 0 |  |
-| 80 | [francescobianco/dosemu2](https://github.com/francescobianco/dosemu2) | 0 | 0 | 0 |  |
-| 81 | [francescobianco/dothosts](https://github.com/francescobianco/dothosts) | 0 | 0 | 0 |  |
-| 82 | [francescobianco/ds.lab.tp.it](https://github.com/francescobianco/ds.lab.tp.it) | 0 | 0 | 0 |  |
-| 83 | [francescobianco/edition-jekyll-template](https://github.com/francescobianco/edition-jekyll-template) | 0 | 0 | 0 |  |
-| 84 | [francescobianco/elasticsearch-php](https://github.com/francescobianco/elasticsearch-php) | 0 | 0 | 0 |  |
-| 85 | [francescobianco/elementi-di-strategia-negli-scacchi-moderni](https://github.com/francescobianco/elementi-di-strategia-negli-scacchi-moderni) | 0 | 0 | 0 |  |
-| 86 | [francescobianco/email-templates](https://github.com/francescobianco/email-templates) | 0 | 0 | 0 |  |
-| 87 | [francescobianco/env.sh](https://github.com/francescobianco/env.sh) | 0 | 0 | 0 |  |
-| 88 | [francescobianco/file-uploader](https://github.com/francescobianco/file-uploader) | 0 | 0 | 0 |  |
-| 89 | [francescobianco/fixedsys-css](https://github.com/francescobianco/fixedsys-css) | 0 | 0 | 0 |  |
-| 90 | [francescobianco/fractal](https://github.com/francescobianco/fractal) | 0 | 0 | 0 |  |
-| 91 | [francescobianco/francesco-bianco-speaker.yafb.net](https://github.com/francescobianco/francesco-bianco-speaker.yafb.net) | 0 | 0 | 0 |  |
-| 92 | [francescobianco/francescobianco](https://github.com/francescobianco/francescobianco) | 0 | 0 | 0 | 🟥 |
-| 93 | [francescobianco/fritznas-local-online-sync](https://github.com/francescobianco/fritznas-local-online-sync) | 0 | 0 | 0 |  |
-| 94 | [francescobianco/generate-plantuml-action](https://github.com/francescobianco/generate-plantuml-action) | 0 | 0 | 0 |  |
-| 95 | [francescobianco/ghostplay-demos](https://github.com/francescobianco/ghostplay-demos) | 0 | 0 | 0 |  |
-| 96 | [francescobianco/gif](https://github.com/francescobianco/gif) | 0 | 0 | 0 |  |
-| 97 | [francescobianco/git-auto-commit-action](https://github.com/francescobianco/git-auto-commit-action) | 0 | 0 | 0 |  |
-| 98 | [francescobianco/git-test](https://github.com/francescobianco/git-test) | 0 | 0 | 0 |  |
-| 99 | [francescobianco/git.io](https://github.com/francescobianco/git.io) | 0 | 0 | 0 |  |
-| 100 | [francescobianco/githooks.com](https://github.com/francescobianco/githooks.com) | 0 | 0 | 0 |  |
-| 101 | [francescobianco/github](https://github.com/francescobianco/github) | 0 | 0 | 0 |  |
-| 102 | [francescobianco/github-showcase](https://github.com/francescobianco/github-showcase) | 0 | 0 | 0 |  |
-| 103 | [francescobianco/github-traffic](https://github.com/francescobianco/github-traffic) | 0 | 0 | 0 |  |
-| 104 | [francescobianco/gitprofile](https://github.com/francescobianco/gitprofile) | 0 | 0 | 0 | 🟩 |
-| 105 | [francescobianco/gnome](https://github.com/francescobianco/gnome) | 0 | 0 | 0 | 🟩 |
-| 106 | [francescobianco/gnosis.yafb.net](https://github.com/francescobianco/gnosis.yafb.net) | 0 | 0 | 0 | 🟩 |
-| 107 | [francescobianco/goldencomrades-bio](https://github.com/francescobianco/goldencomrades-bio) | 0 | 0 | 0 | 🟩 |
-| 108 | [francescobianco/google-calendar-script](https://github.com/francescobianco/google-calendar-script) | 0 | 0 | 0 | 🟩 |
-| 109 | [francescobianco/governance](https://github.com/francescobianco/governance) | 0 | 0 | 0 | 🟩 |
-| 110 | [francescobianco/homekit](https://github.com/francescobianco/homekit) | 0 | 0 | 0 | 🟩 |
-| 111 | [francescobianco/hosts](https://github.com/francescobianco/hosts) | 0 | 0 | 0 | 🟩 |
-| 112 | [francescobianco/iac](https://github.com/francescobianco/iac) | 0 | 0 | 0 | 🟩 |
-| 113 | [francescobianco/ifttt](https://github.com/francescobianco/ifttt) | 0 | 0 | 0 | 🟩 |
-| 114 | [francescobianco/il-libro-open-source-governance](https://github.com/francescobianco/il-libro-open-source-governance) | 0 | 0 | 0 | 🟩 |
-| 115 | [francescobianco/index](https://github.com/francescobianco/index) | 0 | 0 | 0 | 🟩 |
-| 116 | [francescobianco/ingegneria-del-software-in-italia](https://github.com/francescobianco/ingegneria-del-software-in-italia) | 0 | 0 | 0 | 🟩 |
-| 117 | [francescobianco/installer](https://github.com/francescobianco/installer) | 0 | 0 | 0 | 🟩 |
-| 118 | [francescobianco/its4youcrm](https://github.com/francescobianco/its4youcrm) | 0 | 0 | 0 | 🟩 |
-| 119 | [francescobianco/jamstackthemes](https://github.com/francescobianco/jamstackthemes) | 0 | 0 | 0 | 🟩 |
-| 120 | [francescobianco/javascript-test](https://github.com/francescobianco/javascript-test) | 0 | 0 | 0 | 🟩 |
-| 121 | [francescobianco/jekyll-html-pages](https://github.com/francescobianco/jekyll-html-pages) | 0 | 0 | 0 | 🟩 |
-| 122 | [francescobianco/jekyll-open-directory](https://github.com/francescobianco/jekyll-open-directory) | 0 | 0 | 0 | 🟩 |
-| 123 | [francescobianco/jekyllthemes](https://github.com/francescobianco/jekyllthemes) | 0 | 0 | 0 | 🟩 |
-| 124 | [francescobianco/json.yafb.net](https://github.com/francescobianco/json.yafb.net) | 0 | 0 | 0 | 🟩 |
-| 125 | [francescobianco/just-the-docs](https://github.com/francescobianco/just-the-docs) | 0 | 0 | 0 | 🟩 |
-| 126 | [francescobianco/kill-the-shell](https://github.com/francescobianco/kill-the-shell) | 0 | 0 | 0 | 🟩 |
-| 127 | [francescobianco/lab.tp.it](https://github.com/francescobianco/lab.tp.it) | 0 | 0 | 0 | 🟩 |
-| 128 | [francescobianco/laravel](https://github.com/francescobianco/laravel) | 0 | 0 | 0 | 🟩 |
-| 129 | [francescobianco/lifter-effect-myth](https://github.com/francescobianco/lifter-effect-myth) | 0 | 0 | 0 | 🟩 |
-| 130 | [francescobianco/linepush](https://github.com/francescobianco/linepush) | 0 | 0 | 0 | 🟩 |
-| 131 | [francescobianco/linkedin-feed](https://github.com/francescobianco/linkedin-feed) | 0 | 0 | 0 | 🟩 |
-| 132 | [francescobianco/linkedin.sh](https://github.com/francescobianco/linkedin.sh) | 0 | 0 | 0 | 🟩 |
-| 133 | [francescobianco/loop](https://github.com/francescobianco/loop) | 0 | 0 | 0 | 🟩 |
-| 134 | [francescobianco/magic-numbers](https://github.com/francescobianco/magic-numbers) | 0 | 0 | 0 | 🟩 |
-| 135 | [francescobianco/makefile](https://github.com/francescobianco/makefile) | 0 | 0 | 0 | 🟩 |
-| 136 | [francescobianco/makefile-standard-targets](https://github.com/francescobianco/makefile-standard-targets) | 0 | 0 | 0 | 🟩 |
-| 137 | [francescobianco/marketing](https://github.com/francescobianco/marketing) | 0 | 0 | 0 | 🟩 |
-| 138 | [francescobianco/masterclass](https://github.com/francescobianco/masterclass) | 0 | 0 | 0 | 🟩 |
-| 139 | [francescobianco/millennio](https://github.com/francescobianco/millennio) | 0 | 0 | 0 | 🟩 |
-| 140 | [francescobianco/minimal-readme](https://github.com/francescobianco/minimal-readme) | 0 | 0 | 0 | 🟩 |
-| 141 | [francescobianco/mkdocs](https://github.com/francescobianco/mkdocs) | 0 | 0 | 0 | 🟩 |
-| 142 | [francescobianco/mopig](https://github.com/francescobianco/mopig) | 0 | 0 | 0 | 🟩 |
-| 143 | [francescobianco/mush-demo](https://github.com/francescobianco/mush-demo) | 0 | 0 | 0 | 🟩 |
-| 144 | [francescobianco/mush-packages](https://github.com/francescobianco/mush-packages) | 0 | 0 | 0 | 🟩 |
-| 145 | [francescobianco/mush-youtube-demo](https://github.com/francescobianco/mush-youtube-demo) | 0 | 0 | 0 | 🟩 |
-| 146 | [francescobianco/myddleware](https://github.com/francescobianco/myddleware) | 0 | 0 | 0 | 🟩 |
-| 147 | [francescobianco/nocode](https://github.com/francescobianco/nocode) | 0 | 0 | 0 | 🟩 |
-| 148 | [francescobianco/node](https://github.com/francescobianco/node) | 0 | 0 | 0 | 🟩 |
-| 149 | [francescobianco/node-login](https://github.com/francescobianco/node-login) | 0 | 0 | 0 | 🟩 |
-| 150 | [francescobianco/node-yaml](https://github.com/francescobianco/node-yaml) | 0 | 0 | 0 | 🟩 |
-| 151 | [francescobianco/notes](https://github.com/francescobianco/notes) | 0 | 0 | 0 | 🟥 |
+| 1 | [francescobianco/devops-score](https://github.com/francescobianco/devops-score) | 3 | 16 | 1 | 🟩 |
+| 2 | [francescobianco/jekyll-html-pages](https://github.com/francescobianco/jekyll-html-pages) | 2 | 26 | 2 | 🟩 |
+| 3 | [francescobianco/github.yafb.net](https://github.com/francescobianco/github.yafb.net) | 2 | 11 | 2 | 🟩 |
+| 4 | [francescobianco/spotlight.yafb.net](https://github.com/francescobianco/spotlight.yafb.net) | 2 | 7 | 2 | 🟥 |
+| 5 | [francescobianco/francescobianco.github.io](https://github.com/francescobianco/francescobianco.github.io) | 2 | 7 | 1 |  |
+| 6 | [francescobianco/hardcode.blog](https://github.com/francescobianco/hardcode.blog) | 2 | 4 | 2 | 🟩 |
+| 7 | [francescobianco/gnosis.yafb.net](https://github.com/francescobianco/gnosis.yafb.net) | 2 | 3 | 2 | 🟩 |
+| 8 | [francescobianco/scrum](https://github.com/francescobianco/scrum) | 1 | 5 | 1 | 🟥 |
+| 9 | [francescobianco/books.yafb.net](https://github.com/francescobianco/books.yafb.net) | 1 | 3 | 1 | 🟥 |
+| 10 | [francescobianco/calendar.yafb.net](https://github.com/francescobianco/calendar.yafb.net) | 1 | 3 | 1 | 🟩 |
+| 11 | [francescobianco/webinar.yafb.net](https://github.com/francescobianco/webinar.yafb.net) | 1 | 3 | 1 | 🟩 |
+| 12 | [francescobianco/json.yafb.net](https://github.com/francescobianco/json.yafb.net) | 1 | 2 | 1 | 🟩 |
+| 13 | [francescobianco/openvpn-for-windows](https://github.com/francescobianco/openvpn-for-windows) | 1 | 1 | 1 | 🟥 |
+| 14 | [francescobianco/.github](https://github.com/francescobianco/.github) | 0 | 0 | 0 | 🟥 |
+| 15 | [francescobianco/Slim-Symfony-Dic](https://github.com/francescobianco/Slim-Symfony-Dic) | 0 | 0 | 0 | 🟥 |
+| 16 | [francescobianco/TB-7504X](https://github.com/francescobianco/TB-7504X) | 0 | 0 | 0 | 🟥 |
+| 17 | [francescobianco/Thaiane](https://github.com/francescobianco/Thaiane) | 0 | 0 | 0 | 🟥 |
+| 18 | [francescobianco/WikiDocs](https://github.com/francescobianco/WikiDocs) | 0 | 0 | 0 | 🟥 |
+| 19 | [francescobianco/acc](https://github.com/francescobianco/acc) | 0 | 0 | 0 | 🟥 |
+| 20 | [francescobianco/age-of-developers](https://github.com/francescobianco/age-of-developers) | 0 | 0 | 0 | 🟥 |
+| 21 | [francescobianco/alphabetor](https://github.com/francescobianco/alphabetor) | 0 | 0 | 0 | 🟥 |
+| 22 | [francescobianco/arxiv](https://github.com/francescobianco/arxiv) | 0 | 0 | 0 | 🟥 |
+| 23 | [francescobianco/asdf](https://github.com/francescobianco/asdf) | 0 | 0 | 0 | 🟥 |
+| 24 | [francescobianco/assets](https://github.com/francescobianco/assets) | 0 | 0 | 0 | 🟥 |
+| 25 | [francescobianco/awesome](https://github.com/francescobianco/awesome) | 0 | 0 | 0 | 🟥 |
+| 26 | [francescobianco/awesome-api](https://github.com/francescobianco/awesome-api) | 0 | 0 | 0 | 🟥 |
+| 27 | [francescobianco/awesome-bash](https://github.com/francescobianco/awesome-bash) | 0 | 0 | 0 | 🟥 |
+| 28 | [francescobianco/awesome-cpp](https://github.com/francescobianco/awesome-cpp) | 0 | 0 | 0 | 🟥 |
+| 29 | [francescobianco/awesome-ddd](https://github.com/francescobianco/awesome-ddd) | 0 | 0 | 0 | 🟥 |
+| 30 | [francescobianco/awesome-documentation-tools](https://github.com/francescobianco/awesome-documentation-tools) | 0 | 0 | 0 | 🟥 |
+| 31 | [francescobianco/awesome-italia-opensource](https://github.com/francescobianco/awesome-italia-opensource) | 0 | 0 | 0 | 🟥 |
+| 32 | [francescobianco/awesome-javascript](https://github.com/francescobianco/awesome-javascript) | 0 | 0 | 0 | 🟥 |
+| 33 | [francescobianco/awesome-nocode-lowcode](https://github.com/francescobianco/awesome-nocode-lowcode) | 0 | 0 | 0 | 🟥 |
+| 34 | [francescobianco/awesome-nocode-lowcode-1](https://github.com/francescobianco/awesome-nocode-lowcode-1) | 0 | 0 | 0 | 🟥 |
+| 35 | [francescobianco/awesome-openapi3](https://github.com/francescobianco/awesome-openapi3) | 0 | 0 | 0 | 🟥 |
+| 36 | [francescobianco/awesome-php](https://github.com/francescobianco/awesome-php) | 0 | 0 | 0 | 🟥 |
+| 37 | [francescobianco/awesome-rest](https://github.com/francescobianco/awesome-rest) | 0 | 0 | 0 | 🟥 |
+| 38 | [francescobianco/awesome-shell](https://github.com/francescobianco/awesome-shell) | 0 | 0 | 0 | 🟥 |
+| 39 | [francescobianco/awesome-shell-1](https://github.com/francescobianco/awesome-shell-1) | 0 | 0 | 0 | 🟥 |
+| 40 | [francescobianco/awesome-swagger](https://github.com/francescobianco/awesome-swagger) | 0 | 0 | 0 | 🟥 |
+| 41 | [francescobianco/awesome-swagger-1](https://github.com/francescobianco/awesome-swagger-1) | 0 | 0 | 0 | 🟥 |
+| 42 | [francescobianco/awesome-term-analysis](https://github.com/francescobianco/awesome-term-analysis) | 0 | 0 | 0 | 🟥 |
+| 43 | [francescobianco/awesome-vtiger](https://github.com/francescobianco/awesome-vtiger) | 0 | 0 | 0 | 🟥 |
+| 44 | [francescobianco/awesome-webrequest](https://github.com/francescobianco/awesome-webrequest) | 0 | 0 | 0 | 🟥 |
+| 45 | [francescobianco/awesome-yaml](https://github.com/francescobianco/awesome-yaml) | 0 | 0 | 0 | 🟥 |
+| 46 | [francescobianco/awesome-yaml-1](https://github.com/francescobianco/awesome-yaml-1) | 0 | 0 | 0 | 🟥 |
+| 47 | [francescobianco/aws-sdk-php-laravel](https://github.com/francescobianco/aws-sdk-php-laravel) | 0 | 0 | 0 | 🟥 |
+| 48 | [francescobianco/bash-google-cloud-access-token](https://github.com/francescobianco/bash-google-cloud-access-token) | 0 | 0 | 0 | 🟥 |
+| 49 | [francescobianco/bashcov](https://github.com/francescobianco/bashcov) | 0 | 0 | 0 | 🟥 |
+| 50 | [francescobianco/bashunit](https://github.com/francescobianco/bashunit) | 0 | 0 | 0 | 🟥 |
+| 51 | [francescobianco/bashzine](https://github.com/francescobianco/bashzine) | 0 | 0 | 0 | 🟥 |
+| 52 | [francescobianco/bats-core](https://github.com/francescobianco/bats-core) | 0 | 0 | 0 | 🟥 |
+| 53 | [francescobianco/beautiful-jekyll](https://github.com/francescobianco/beautiful-jekyll) | 0 | 0 | 0 | 🟥 |
+| 54 | [francescobianco/bfetch](https://github.com/francescobianco/bfetch) | 0 | 0 | 0 | 🟥 |
+| 55 | [francescobianco/bio](https://github.com/francescobianco/bio) | 0 | 0 | 0 | 🟥 |
+| 56 | [francescobianco/biofeedback-mindfulness](https://github.com/francescobianco/biofeedback-mindfulness) | 0 | 0 | 0 | 🟥 |
+| 57 | [francescobianco/black-sabbath](https://github.com/francescobianco/black-sabbath) | 0 | 0 | 0 | 🟥 |
+| 58 | [francescobianco/blackbox](https://github.com/francescobianco/blackbox) | 0 | 0 | 0 | 🟥 |
+| 59 | [francescobianco/blog.yafb.net](https://github.com/francescobianco/blog.yafb.net) | 0 | 0 | 0 | 🟥 |
+| 60 | [francescobianco/books.codementor.it](https://github.com/francescobianco/books.codementor.it) | 0 | 0 | 0 | 🟥 |
+| 61 | [francescobianco/bpkg](https://github.com/francescobianco/bpkg) | 0 | 0 | 0 | 🟥 |
+| 62 | [francescobianco/bpkg-template](https://github.com/francescobianco/bpkg-template) | 0 | 0 | 0 | 🟥 |
+| 63 | [francescobianco/candycane](https://github.com/francescobianco/candycane) | 0 | 0 | 0 | 🟥 |
+| 64 | [francescobianco/cargo](https://github.com/francescobianco/cargo) | 0 | 0 | 0 | 🟥 |
+| 65 | [francescobianco/checkstyle](https://github.com/francescobianco/checkstyle) | 0 | 0 | 0 | 🟥 |
+| 66 | [francescobianco/cheshire-cat](https://github.com/francescobianco/cheshire-cat) | 0 | 0 | 0 | 🟥 |
+| 67 | [francescobianco/clenv](https://github.com/francescobianco/clenv) | 0 | 0 | 0 | 🟥 |
+| 68 | [francescobianco/dati.lab.tp.it](https://github.com/francescobianco/dati.lab.tp.it) | 0 | 0 | 0 | 🟥 |
+| 69 | [francescobianco/ddeboer-imap](https://github.com/francescobianco/ddeboer-imap) | 0 | 0 | 0 | 🟥 |
+| 70 | [francescobianco/deno](https://github.com/francescobianco/deno) | 0 | 0 | 0 | 🟥 |
+| 71 | [francescobianco/devices](https://github.com/francescobianco/devices) | 0 | 0 | 0 | 🟥 |
+| 72 | [francescobianco/devops](https://github.com/francescobianco/devops) | 0 | 0 | 0 | 🟥 |
+| 73 | [francescobianco/directory.lab.tp.it](https://github.com/francescobianco/directory.lab.tp.it) | 0 | 0 | 0 | 🟥 |
+| 74 | [francescobianco/dnsflush](https://github.com/francescobianco/dnsflush) | 0 | 0 | 0 | 🟥 |
+| 75 | [francescobianco/docker-compose](https://github.com/francescobianco/docker-compose) | 0 | 0 | 0 | 🟥 |
+| 76 | [francescobianco/docker-dummy-sftp-server](https://github.com/francescobianco/docker-dummy-sftp-server) | 0 | 0 | 0 | 🟥 |
+| 77 | [francescobianco/docker-novnc](https://github.com/francescobianco/docker-novnc) | 0 | 0 | 0 | 🟥 |
+| 78 | [francescobianco/docker-openvpn](https://github.com/francescobianco/docker-openvpn) | 0 | 0 | 0 | 🟥 |
+| 79 | [francescobianco/docker-per-windows](https://github.com/francescobianco/docker-per-windows) | 0 | 0 | 0 | 🟥 |
+| 80 | [francescobianco/docs](https://github.com/francescobianco/docs) | 0 | 0 | 0 | 🟥 |
+| 81 | [francescobianco/documentation](https://github.com/francescobianco/documentation) | 0 | 0 | 0 | 🟥 |
+| 82 | [francescobianco/dosemu2](https://github.com/francescobianco/dosemu2) | 0 | 0 | 0 | 🟥 |
+| 83 | [francescobianco/dothosts](https://github.com/francescobianco/dothosts) | 0 | 0 | 0 | 🟥 |
+| 84 | [francescobianco/ds.lab.tp.it](https://github.com/francescobianco/ds.lab.tp.it) | 0 | 0 | 0 | 🟥 |
+| 85 | [francescobianco/edition-jekyll-template](https://github.com/francescobianco/edition-jekyll-template) | 0 | 0 | 0 | 🟥 |
+| 86 | [francescobianco/elasticsearch-php](https://github.com/francescobianco/elasticsearch-php) | 0 | 0 | 0 | 🟥 |
+| 87 | [francescobianco/elementi-di-strategia-negli-scacchi-moderni](https://github.com/francescobianco/elementi-di-strategia-negli-scacchi-moderni) | 0 | 0 | 0 | 🟥 |
+| 88 | [francescobianco/email-templates](https://github.com/francescobianco/email-templates) | 0 | 0 | 0 | 🟥 |
+| 89 | [francescobianco/env.sh](https://github.com/francescobianco/env.sh) | 0 | 0 | 0 | 🟥 |
+| 90 | [francescobianco/file-uploader](https://github.com/francescobianco/file-uploader) | 0 | 0 | 0 | 🟥 |
+| 91 | [francescobianco/fixedsys-css](https://github.com/francescobianco/fixedsys-css) | 0 | 0 | 0 | 🟥 |
+| 92 | [francescobianco/fractal](https://github.com/francescobianco/fractal) | 0 | 0 | 0 | 🟥 |
+| 93 | [francescobianco/francesco-bianco-speaker.yafb.net](https://github.com/francescobianco/francesco-bianco-speaker.yafb.net) | 0 | 0 | 0 | 🟥 |
+| 94 | [francescobianco/francescobianco](https://github.com/francescobianco/francescobianco) | 0 | 0 | 0 | 🟥 |
+| 95 | [francescobianco/fritznas-local-online-sync](https://github.com/francescobianco/fritznas-local-online-sync) | 0 | 0 | 0 | 🟥 |
+| 96 | [francescobianco/generate-plantuml-action](https://github.com/francescobianco/generate-plantuml-action) | 0 | 0 | 0 | 🟥 |
+| 97 | [francescobianco/ghostplay-demos](https://github.com/francescobianco/ghostplay-demos) | 0 | 0 | 0 | 🟥 |
+| 98 | [francescobianco/gif](https://github.com/francescobianco/gif) | 0 | 0 | 0 | 🟥 |
+| 99 | [francescobianco/git-auto-commit-action](https://github.com/francescobianco/git-auto-commit-action) | 0 | 0 | 0 | 🟥 |
+| 100 | [francescobianco/git-test](https://github.com/francescobianco/git-test) | 0 | 0 | 0 | 🟥 |
+| 101 | [francescobianco/git.io](https://github.com/francescobianco/git.io) | 0 | 0 | 0 | 🟥 |
+| 102 | [francescobianco/githooks.com](https://github.com/francescobianco/githooks.com) | 0 | 0 | 0 | 🟥 |
+| 103 | [francescobianco/github](https://github.com/francescobianco/github) | 0 | 0 | 0 | 🟥 |
+| 104 | [francescobianco/github-showcase](https://github.com/francescobianco/github-showcase) | 0 | 0 | 0 | 🟥 |
+| 105 | [francescobianco/github-traffic](https://github.com/francescobianco/github-traffic) | 0 | 0 | 0 | 🟥 |
+| 106 | [francescobianco/gitprofile](https://github.com/francescobianco/gitprofile) | 0 | 0 | 0 | 🟥 |
+| 107 | [francescobianco/gnome](https://github.com/francescobianco/gnome) | 0 | 0 | 0 | 🟥 |
+| 108 | [francescobianco/goldencomrades-bio](https://github.com/francescobianco/goldencomrades-bio) | 0 | 0 | 0 | 🟥 |
+| 109 | [francescobianco/google-calendar-script](https://github.com/francescobianco/google-calendar-script) | 0 | 0 | 0 | 🟥 |
+| 110 | [francescobianco/governance](https://github.com/francescobianco/governance) | 0 | 0 | 0 | 🟥 |
+| 111 | [francescobianco/homekit](https://github.com/francescobianco/homekit) | 0 | 0 | 0 | 🟥 |
+| 112 | [francescobianco/hosts](https://github.com/francescobianco/hosts) | 0 | 0 | 0 | 🟥 |
+| 113 | [francescobianco/iac](https://github.com/francescobianco/iac) | 0 | 0 | 0 | 🟥 |
+| 114 | [francescobianco/ifttt](https://github.com/francescobianco/ifttt) | 0 | 0 | 0 | 🟥 |
+| 115 | [francescobianco/il-libro-open-source-governance](https://github.com/francescobianco/il-libro-open-source-governance) | 0 | 0 | 0 | 🟥 |
+| 116 | [francescobianco/index](https://github.com/francescobianco/index) | 0 | 0 | 0 | 🟥 |
+| 117 | [francescobianco/ingegneria-del-software-in-italia](https://github.com/francescobianco/ingegneria-del-software-in-italia) | 0 | 0 | 0 | 🟥 |
+| 118 | [francescobianco/installer](https://github.com/francescobianco/installer) | 0 | 0 | 0 | 🟥 |
+| 119 | [francescobianco/its4youcrm](https://github.com/francescobianco/its4youcrm) | 0 | 0 | 0 | 🟥 |
+| 120 | [francescobianco/jamstackthemes](https://github.com/francescobianco/jamstackthemes) | 0 | 0 | 0 | 🟥 |
+| 121 | [francescobianco/javascript-test](https://github.com/francescobianco/javascript-test) | 0 | 0 | 0 | 🟥 |
+| 122 | [francescobianco/jekyll-open-directory](https://github.com/francescobianco/jekyll-open-directory) | 0 | 0 | 0 |  |
+| 123 | [francescobianco/jekyllthemes](https://github.com/francescobianco/jekyllthemes) | 0 | 0 | 0 |  |
+| 124 | [francescobianco/just-the-docs](https://github.com/francescobianco/just-the-docs) | 0 | 0 | 0 | 🟩 |
+| 125 | [francescobianco/kill-the-shell](https://github.com/francescobianco/kill-the-shell) | 0 | 0 | 0 | 🟩 |
+| 126 | [francescobianco/lab.tp.it](https://github.com/francescobianco/lab.tp.it) | 0 | 0 | 0 | 🟩 |
+| 127 | [francescobianco/laravel](https://github.com/francescobianco/laravel) | 0 | 0 | 0 | 🟩 |
+| 128 | [francescobianco/lifter-effect-myth](https://github.com/francescobianco/lifter-effect-myth) | 0 | 0 | 0 | 🟩 |
+| 129 | [francescobianco/linepush](https://github.com/francescobianco/linepush) | 0 | 0 | 0 | 🟩 |
+| 130 | [francescobianco/linkedin-feed](https://github.com/francescobianco/linkedin-feed) | 0 | 0 | 0 | 🟩 |
+| 131 | [francescobianco/linkedin.sh](https://github.com/francescobianco/linkedin.sh) | 0 | 0 | 0 | 🟩 |
+| 132 | [francescobianco/loop](https://github.com/francescobianco/loop) | 0 | 0 | 0 | 🟩 |
+| 133 | [francescobianco/magic-numbers](https://github.com/francescobianco/magic-numbers) | 0 | 0 | 0 | 🟩 |
+| 134 | [francescobianco/makefile](https://github.com/francescobianco/makefile) | 0 | 0 | 0 | 🟩 |
+| 135 | [francescobianco/makefile-standard-targets](https://github.com/francescobianco/makefile-standard-targets) | 0 | 0 | 0 | 🟩 |
+| 136 | [francescobianco/marketing](https://github.com/francescobianco/marketing) | 0 | 0 | 0 | 🟩 |
+| 137 | [francescobianco/masterclass](https://github.com/francescobianco/masterclass) | 0 | 0 | 0 | 🟩 |
+| 138 | [francescobianco/meet.yafb.net](https://github.com/francescobianco/meet.yafb.net) | 0 | 0 | 0 | 🟥 |
+| 139 | [francescobianco/millennio](https://github.com/francescobianco/millennio) | 0 | 0 | 0 |  |
+| 140 | [francescobianco/minimal-readme](https://github.com/francescobianco/minimal-readme) | 0 | 0 | 0 |  |
+| 141 | [francescobianco/mkdocs](https://github.com/francescobianco/mkdocs) | 0 | 0 | 0 |  |
+| 142 | [francescobianco/mopig](https://github.com/francescobianco/mopig) | 0 | 0 | 0 |  |
+| 143 | [francescobianco/mush-demo](https://github.com/francescobianco/mush-demo) | 0 | 0 | 0 |  |
+| 144 | [francescobianco/mush-packages](https://github.com/francescobianco/mush-packages) | 0 | 0 | 0 |  |
+| 145 | [francescobianco/mush-youtube-demo](https://github.com/francescobianco/mush-youtube-demo) | 0 | 0 | 0 |  |
+| 146 | [francescobianco/myddleware](https://github.com/francescobianco/myddleware) | 0 | 0 | 0 |  |
+| 147 | [francescobianco/nocode](https://github.com/francescobianco/nocode) | 0 | 0 | 0 |  |
+| 148 | [francescobianco/node](https://github.com/francescobianco/node) | 0 | 0 | 0 |  |
+| 149 | [francescobianco/node-login](https://github.com/francescobianco/node-login) | 0 | 0 | 0 |  |
+| 150 | [francescobianco/node-yaml](https://github.com/francescobianco/node-yaml) | 0 | 0 | 0 |  |
+| 151 | [francescobianco/notes](https://github.com/francescobianco/notes) | 0 | 0 | 0 |  |
 | 152 | [francescobianco/npm-expansions](https://github.com/francescobianco/npm-expansions) | 0 | 0 | 0 |  |
 | 153 | [francescobianco/nterm](https://github.com/francescobianco/nterm) | 0 | 0 | 0 |  |
 | 154 | [francescobianco/nuvolaris-olaris](https://github.com/francescobianco/nuvolaris-olaris) | 0 | 0 | 0 |  |
@@ -204,14 +204,14 @@ This project collects all data of incoming traffic to our organization
 | 197 | [francescobianco/tilde.yafb.net](https://github.com/francescobianco/tilde.yafb.net) | 0 | 0 | 0 |  |
 | 198 | [francescobianco/tolerant-php-parser](https://github.com/francescobianco/tolerant-php-parser) | 0 | 0 | 0 |  |
 | 199 | [francescobianco/ui](https://github.com/francescobianco/ui) | 0 | 0 | 0 |  |
-| 200 | [francescobianco/volafacile](https://github.com/francescobianco/volafacile) | 0 | 0 | 0 | 🟩 |
-| 201 | [francescobianco/volafacile.info](https://github.com/francescobianco/volafacile.info) | 0 | 0 | 0 | 🟩 |
-| 202 | [francescobianco/waproxy](https://github.com/francescobianco/waproxy) | 0 | 0 | 0 | 🟥 |
-| 203 | [francescobianco/wbm](https://github.com/francescobianco/wbm) | 0 | 0 | 0 |  |
-| 204 | [francescobianco/webinar.yafb.net](https://github.com/francescobianco/webinar.yafb.net) | 0 | 0 | 0 | 🟥 |
-| 205 | [francescobianco/webpack](https://github.com/francescobianco/webpack) | 0 | 0 | 0 | 🟥 |
-| 206 | [francescobianco/webrequest](https://github.com/francescobianco/webrequest) | 0 | 0 | 0 | 🟥 |
-| 207 | [francescobianco/why](https://github.com/francescobianco/why) | 0 | 0 | 0 | 🟥 |
-| 208 | [francescobianco/wtdd](https://github.com/francescobianco/wtdd) | 0 | 0 | 0 | 🟥 |
+| 200 | [francescobianco/vintage](https://github.com/francescobianco/vintage) | 0 | 0 | 0 | 🟥 |
+| 201 | [francescobianco/volafacile](https://github.com/francescobianco/volafacile) | 0 | 0 | 0 | 🟥 |
+| 202 | [francescobianco/volafacile.info](https://github.com/francescobianco/volafacile.info) | 0 | 0 | 0 | 🟥 |
+| 203 | [francescobianco/waproxy](https://github.com/francescobianco/waproxy) | 0 | 0 | 0 | 🟥 |
+| 204 | [francescobianco/wbm](https://github.com/francescobianco/wbm) | 0 | 0 | 0 | 🟥 |
+| 205 | [francescobianco/webpack](https://github.com/francescobianco/webpack) | 0 | 0 | 0 |  |
+| 206 | [francescobianco/webrequest](https://github.com/francescobianco/webrequest) | 0 | 0 | 0 |  |
+| 207 | [francescobianco/why](https://github.com/francescobianco/why) | 0 | 0 | 0 |  |
+| 208 | [francescobianco/wtdd](https://github.com/francescobianco/wtdd) | 0 | 0 | 0 |  |
 ## License
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
