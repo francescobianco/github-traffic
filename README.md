@@ -1,6 +1,6 @@
 # francescobianco (traffic)
 [![Traffic Update](https://github.com/javanile/github-traffic/actions/workflows/update.yml/badge.svg)](https://github.com/javanile/github-traffic/actions/workflows/update.yml)
-![Last Update](https://img.shields.io/badge/Last%20Update-2025--11--30%2008%3A09%3A52%20UTC-blue)  
+![Last Update](https://img.shields.io/badge/Last%20Update-2025--12--07%2008%3A10%3A14%20UTC-blue)  
 This file collects all information about the traffic to our repositories.
 
 | Rank | Repository | Uniques | Views | Sources | Stars | Trend |
