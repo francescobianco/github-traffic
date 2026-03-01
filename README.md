@@ -1,123 +1,123 @@
 # francescobianco (traffic)
 [![Traffic Update](https://github.com/francescobianco/github-traffic/actions/workflows/update.yml/badge.svg)](https://github.com/francescobianco/github-traffic/actions/workflows/update.yml)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026--02--22%2008%3A13%3A56%20UTC-blue)  
+![Last Update](https://img.shields.io/badge/Last%20Update-2026--03--01%2008%3A14%3A20%20UTC-blue)  
 This file collects all information about the traffic to our repositories.
 
 | Rank | Repository | Uniques | Views | Sources | Stars | Trend |
 |:----:|------------|:-----:|:-------:|:-------:|:-----:|:-----:|
-| 1 | [francescobianco/matrix-theme](https://github.com/francescobianco/matrix-theme)  | 3 | 5 | 1 | 4 | 🟩 |
-| 2 | [francescobianco/hardcode.blog](https://github.com/francescobianco/hardcode.blog)  | 2 | 2 | 1 | 2 | 🟩 |
-| 3 | [francescobianco/openapi-token-manager](https://github.com/francescobianco/openapi-token-manager)  | 1 | 5 | 1 | 1 | 🟩 |
-| 4 | [francescobianco/github.yafb.net](https://github.com/francescobianco/github.yafb.net)  | 1 | 4 | 1 | 2 | 🟩 |
-| 5 | [francescobianco/chess-stamp-history](https://github.com/francescobianco/chess-stamp-history)  | 1 | 3 | 1 | 2 | 🟩 |
-| 6 | [francescobianco/francescobianco](https://github.com/francescobianco/francescobianco)  | 1 | 3 | 1 | 1 |  |
-| 7 | [francescobianco/vintage](https://github.com/francescobianco/vintage)  | 1 | 2 | 1 | 4 | 🟥 |
-| 8 | [francescobianco/masterclass](https://github.com/francescobianco/masterclass)  | 1 | 2 | 1 | 1 | 🟥 |
-| 9 | [francescobianco/markdown-games](https://github.com/francescobianco/markdown-games)  | 1 | 2 | 1 | 0 | 🟥 |
-| 10 | [francescobianco/github-traffic](https://github.com/francescobianco/github-traffic)  | 1 | 1 | 1 | 4 | 🟥 |
-| 11 | [francescobianco/jekyll-html-pages](https://github.com/francescobianco/jekyll-html-pages)  | 1 | 1 | 1 | 3 | 🟩 |
-| 12 | [francescobianco/millennio](https://github.com/francescobianco/millennio)  | 1 | 1 | 1 | 1 | 🟥 |
-| 13 | [francescobianco/mush-plugins](https://github.com/francescobianco/mush-plugins)  | 1 | 1 | 1 | 1 | 🟩 |
-| 14 | [francescobianco/one-thing](https://github.com/francescobianco/one-thing)  | 1 | 1 | 1 | 1 | 🟥 |
-| 15 | [francescobianco/shell-output-guidelines](https://github.com/francescobianco/shell-output-guidelines)  | 0 | 0 | 0 | 10 |  |
-| 16 | [francescobianco/blackbox](https://github.com/francescobianco/blackbox)  | 0 | 0 | 0 | 3 |  |
-| 17 | [francescobianco/rtail](https://github.com/francescobianco/rtail) [⚠️](https://github.com/francescobianco/rtail "Problem with default branch") | 0 | 0 | 0 | 3 |  |
-| 18 | [francescobianco/assets](https://github.com/francescobianco/assets)  | 0 | 0 | 0 | 2 |  |
-| 19 | [francescobianco/cheshire-cat](https://github.com/francescobianco/cheshire-cat)  | 0 | 0 | 0 | 2 |  |
-| 20 | [francescobianco/francesco-bianco-speaker.yafb.net](https://github.com/francescobianco/francesco-bianco-speaker.yafb.net) [⚠️](https://github.com/francescobianco/francesco-bianco-speaker.yafb.net "Problem with default branch") | 0 | 0 | 0 | 2 |  |
-| 21 | [francescobianco/json-grid-syntax](https://github.com/francescobianco/json-grid-syntax)  | 0 | 0 | 0 | 2 |  |
-| 22 | [francescobianco/lastchanges](https://github.com/francescobianco/lastchanges)  | 0 | 0 | 0 | 2 |  |
-| 23 | [francescobianco/linkedin.sh](https://github.com/francescobianco/linkedin.sh)  | 0 | 0 | 0 | 2 |  |
-| 24 | [francescobianco/profile-check](https://github.com/francescobianco/profile-check)  | 0 | 0 | 0 | 2 |  |
-| 25 | [francescobianco/qbasic](https://github.com/francescobianco/qbasic) [⚠️](https://github.com/francescobianco/qbasic "Problem with default branch") | 0 | 0 | 0 | 2 |  |
-| 26 | [francescobianco/techfeed](https://github.com/francescobianco/techfeed)  | 0 | 0 | 0 | 2 |  |
-| 27 | [francescobianco/Slim-Symfony-Dic](https://github.com/francescobianco/Slim-Symfony-Dic) [⚠️](https://github.com/francescobianco/Slim-Symfony-Dic "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 28 | [francescobianco/TB-7504X](https://github.com/francescobianco/TB-7504X)  | 0 | 0 | 0 | 1 |  |
-| 29 | [francescobianco/acurl](https://github.com/francescobianco/acurl)  | 0 | 0 | 0 | 1 |  |
-| 30 | [francescobianco/aeterna](https://github.com/francescobianco/aeterna)  | 0 | 0 | 0 | 1 |  |
-| 31 | [francescobianco/age-of-developers](https://github.com/francescobianco/age-of-developers)  | 0 | 0 | 0 | 1 |  |
-| 32 | [francescobianco/alphabetor](https://github.com/francescobianco/alphabetor)  | 0 | 0 | 0 | 1 |  |
-| 33 | [francescobianco/arxiv](https://github.com/francescobianco/arxiv)  | 0 | 0 | 0 | 1 |  |
-| 34 | [francescobianco/awesome-api](https://github.com/francescobianco/awesome-api) [⚠️](https://github.com/francescobianco/awesome-api "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 35 | [francescobianco/awesome-bash](https://github.com/francescobianco/awesome-bash) [⚠️](https://github.com/francescobianco/awesome-bash "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 36 | [francescobianco/awesome-documentation-tools](https://github.com/francescobianco/awesome-documentation-tools) [⚠️](https://github.com/francescobianco/awesome-documentation-tools "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 37 | [francescobianco/awesome-italia-opensource](https://github.com/francescobianco/awesome-italia-opensource)  | 0 | 0 | 0 | 1 |  |
-| 38 | [francescobianco/awesome-nocode-lowcode-1](https://github.com/francescobianco/awesome-nocode-lowcode-1)  | 0 | 0 | 0 | 1 |  |
-| 39 | [francescobianco/awesome-openapi3](https://github.com/francescobianco/awesome-openapi3) [⚠️](https://github.com/francescobianco/awesome-openapi3 "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 40 | [francescobianco/awesome-php](https://github.com/francescobianco/awesome-php) [⚠️](https://github.com/francescobianco/awesome-php "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 41 | [francescobianco/awesome-rest](https://github.com/francescobianco/awesome-rest) [⚠️](https://github.com/francescobianco/awesome-rest "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 42 | [francescobianco/awesome-shell](https://github.com/francescobianco/awesome-shell) [⚠️](https://github.com/francescobianco/awesome-shell "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 43 | [francescobianco/awesome-shell-1](https://github.com/francescobianco/awesome-shell-1) [⚠️](https://github.com/francescobianco/awesome-shell-1 "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 44 | [francescobianco/awesome-swagger](https://github.com/francescobianco/awesome-swagger) [⚠️](https://github.com/francescobianco/awesome-swagger "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 45 | [francescobianco/awesome-swagger-1](https://github.com/francescobianco/awesome-swagger-1) [⚠️](https://github.com/francescobianco/awesome-swagger-1 "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 46 | [francescobianco/awesome-term-analysis](https://github.com/francescobianco/awesome-term-analysis)  | 0 | 0 | 0 | 1 |  |
-| 47 | [francescobianco/awesome-vtiger](https://github.com/francescobianco/awesome-vtiger)  | 0 | 0 | 0 | 1 |  |
-| 48 | [francescobianco/awesome-yaml](https://github.com/francescobianco/awesome-yaml) [⚠️](https://github.com/francescobianco/awesome-yaml "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 49 | [francescobianco/awesome-yaml-1](https://github.com/francescobianco/awesome-yaml-1) [⚠️](https://github.com/francescobianco/awesome-yaml-1 "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 50 | [francescobianco/aws-sdk-php-laravel](https://github.com/francescobianco/aws-sdk-php-laravel) [⚠️](https://github.com/francescobianco/aws-sdk-php-laravel "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 51 | [francescobianco/beautiful-jekyll](https://github.com/francescobianco/beautiful-jekyll) [⚠️](https://github.com/francescobianco/beautiful-jekyll "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 52 | [francescobianco/bio](https://github.com/francescobianco/bio)  | 0 | 0 | 0 | 1 |  |
-| 53 | [francescobianco/blue-oyster-cult](https://github.com/francescobianco/blue-oyster-cult)  | 0 | 0 | 0 | 1 |  |
-| 54 | [francescobianco/books.codementor.it](https://github.com/francescobianco/books.codementor.it)  | 0 | 0 | 0 | 1 |  |
-| 55 | [francescobianco/books.yafb.net](https://github.com/francescobianco/books.yafb.net)  | 0 | 0 | 0 | 1 |  |
-| 56 | [francescobianco/brailletouch](https://github.com/francescobianco/brailletouch)  | 0 | 0 | 0 | 1 |  |
-| 57 | [francescobianco/btproxy.old](https://github.com/francescobianco/btproxy.old)  | 0 | 0 | 0 | 1 |  |
-| 58 | [francescobianco/cargo](https://github.com/francescobianco/cargo) [⚠️](https://github.com/francescobianco/cargo "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 59 | [francescobianco/chargelog](https://github.com/francescobianco/chargelog)  | 0 | 0 | 0 | 1 |  |
-| 60 | [francescobianco/clenv](https://github.com/francescobianco/clenv)  | 0 | 0 | 0 | 1 |  |
-| 61 | [francescobianco/convcommit](https://github.com/francescobianco/convcommit)  | 0 | 0 | 0 | 1 |  |
-| 62 | [francescobianco/data.yafb.net](https://github.com/francescobianco/data.yafb.net)  | 0 | 0 | 0 | 1 |  |
-| 63 | [francescobianco/dati.lab.tp.it](https://github.com/francescobianco/dati.lab.tp.it)  | 0 | 0 | 0 | 1 |  |
-| 64 | [francescobianco/design-problems](https://github.com/francescobianco/design-problems)  | 0 | 0 | 0 | 1 |  |
-| 65 | [francescobianco/developerexperience](https://github.com/francescobianco/developerexperience)  | 0 | 0 | 0 | 1 |  |
-| 66 | [francescobianco/devices](https://github.com/francescobianco/devices)  | 0 | 0 | 0 | 1 |  |
-| 67 | [francescobianco/devops-score](https://github.com/francescobianco/devops-score)  | 0 | 0 | 0 | 1 |  |
-| 68 | [francescobianco/dnsflush](https://github.com/francescobianco/dnsflush)  | 0 | 0 | 0 | 1 |  |
-| 69 | [francescobianco/docker-compose](https://github.com/francescobianco/docker-compose)  | 0 | 0 | 0 | 1 |  |
-| 70 | [francescobianco/docker-entrypoint.sh](https://github.com/francescobianco/docker-entrypoint.sh)  | 0 | 0 | 0 | 1 |  |
-| 71 | [francescobianco/docker-novnc](https://github.com/francescobianco/docker-novnc) [⚠️](https://github.com/francescobianco/docker-novnc "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 72 | [francescobianco/docker-per-windows](https://github.com/francescobianco/docker-per-windows)  | 0 | 0 | 0 | 1 |  |
-| 73 | [francescobianco/dothosts](https://github.com/francescobianco/dothosts)  | 0 | 0 | 0 | 1 |  |
-| 74 | [francescobianco/edition-jekyll-template](https://github.com/francescobianco/edition-jekyll-template)  | 0 | 0 | 0 | 1 |  |
-| 75 | [francescobianco/elasticsearch-php](https://github.com/francescobianco/elasticsearch-php) [⚠️](https://github.com/francescobianco/elasticsearch-php "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 76 | [francescobianco/elementi-di-strategia-negli-scacchi-moderni](https://github.com/francescobianco/elementi-di-strategia-negli-scacchi-moderni)  | 0 | 0 | 0 | 1 |  |
-| 77 | [francescobianco/env.sh](https://github.com/francescobianco/env.sh)  | 0 | 0 | 0 | 1 |  |
-| 78 | [francescobianco/error](https://github.com/francescobianco/error)  | 0 | 0 | 0 | 1 |  |
-| 79 | [francescobianco/eventitech](https://github.com/francescobianco/eventitech)  | 0 | 0 | 0 | 1 |  |
-| 80 | [francescobianco/fractal](https://github.com/francescobianco/fractal)  | 0 | 0 | 0 | 1 |  |
-| 81 | [francescobianco/francescobianco.github.io](https://github.com/francescobianco/francescobianco.github.io)  | 0 | 0 | 0 | 1 |  |
-| 82 | [francescobianco/generate-plantuml-action](https://github.com/francescobianco/generate-plantuml-action) [⚠️](https://github.com/francescobianco/generate-plantuml-action "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 83 | [francescobianco/gif](https://github.com/francescobianco/gif)  | 0 | 0 | 0 | 1 |  |
-| 84 | [francescobianco/git-popper](https://github.com/francescobianco/git-popper)  | 0 | 0 | 0 | 1 |  |
-| 85 | [francescobianco/github-project-issue](https://github.com/francescobianco/github-project-issue)  | 0 | 0 | 0 | 1 |  |
-| 86 | [francescobianco/github-showcase](https://github.com/francescobianco/github-showcase)  | 0 | 0 | 0 | 1 |  |
-| 87 | [francescobianco/gitprofile](https://github.com/francescobianco/gitprofile) [⚠️](https://github.com/francescobianco/gitprofile "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 88 | [francescobianco/gnome](https://github.com/francescobianco/gnome)  | 0 | 0 | 0 | 1 |  |
-| 89 | [francescobianco/gnosis.yafb.net](https://github.com/francescobianco/gnosis.yafb.net)  | 0 | 0 | 0 | 1 |  |
-| 90 | [francescobianco/goldencomrades-bio](https://github.com/francescobianco/goldencomrades-bio) [⚠️](https://github.com/francescobianco/goldencomrades-bio "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 91 | [francescobianco/google-calendar-script](https://github.com/francescobianco/google-calendar-script)  | 0 | 0 | 0 | 1 |  |
-| 92 | [francescobianco/hosts](https://github.com/francescobianco/hosts)  | 0 | 0 | 0 | 1 |  |
-| 93 | [francescobianco/idea](https://github.com/francescobianco/idea)  | 0 | 0 | 0 | 1 |  |
-| 94 | [francescobianco/il-libro-open-source-governance](https://github.com/francescobianco/il-libro-open-source-governance)  | 0 | 0 | 0 | 1 |  |
-| 95 | [francescobianco/ingegneria-del-software-in-italia](https://github.com/francescobianco/ingegneria-del-software-in-italia)  | 0 | 0 | 0 | 1 |  |
-| 96 | [francescobianco/its4youcrm](https://github.com/francescobianco/its4youcrm) [⚠️](https://github.com/francescobianco/its4youcrm "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 97 | [francescobianco/js2pdf](https://github.com/francescobianco/js2pdf)  | 0 | 0 | 0 | 1 |  |
-| 98 | [francescobianco/lab.tp.it](https://github.com/francescobianco/lab.tp.it)  | 0 | 0 | 0 | 1 |  |
-| 99 | [francescobianco/laravel](https://github.com/francescobianco/laravel) [⚠️](https://github.com/francescobianco/laravel "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 100 | [francescobianco/make.sh](https://github.com/francescobianco/make.sh)  | 0 | 0 | 0 | 1 |  |
-| 101 | [francescobianco/makefile](https://github.com/francescobianco/makefile)  | 0 | 0 | 0 | 1 |  |
-| 102 | [francescobianco/makefile-standard-targets](https://github.com/francescobianco/makefile-standard-targets)  | 0 | 0 | 0 | 1 |  |
-| 103 | [francescobianco/meet.yafb.net](https://github.com/francescobianco/meet.yafb.net)  | 0 | 0 | 0 | 1 |  |
-| 104 | [francescobianco/mush-index](https://github.com/francescobianco/mush-index)  | 0 | 0 | 0 | 1 |  |
-| 105 | [francescobianco/mush-mock](https://github.com/francescobianco/mush-mock)  | 0 | 0 | 0 | 1 |  |
-| 106 | [francescobianco/mush-packages](https://github.com/francescobianco/mush-packages)  | 0 | 0 | 0 | 1 |  |
-| 107 | [francescobianco/mush-youtube-demo](https://github.com/francescobianco/mush-youtube-demo)  | 0 | 0 | 0 | 1 |  |
-| 108 | [francescobianco/my](https://github.com/francescobianco/my)  | 0 | 0 | 0 | 1 |  |
-| 109 | [francescobianco/myown](https://github.com/francescobianco/myown)  | 0 | 0 | 0 | 1 |  |
-| 110 | [francescobianco/mysql-backup](https://github.com/francescobianco/mysql-backup)  | 0 | 0 | 0 | 1 |  |
-| 111 | [francescobianco/nautilus-scripts](https://github.com/francescobianco/nautilus-scripts)  | 0 | 0 | 0 | 1 |  |
-| 112 | [francescobianco/node-yaml](https://github.com/francescobianco/node-yaml) [⚠️](https://github.com/francescobianco/node-yaml "Problem with default branch") | 0 | 0 | 0 | 1 |  |
-| 113 | [francescobianco/open-webui-cli](https://github.com/francescobianco/open-webui-cli)  | 0 | 0 | 0 | 1 |  |
+| 1 | [francescobianco/github.yafb.net](https://github.com/francescobianco/github.yafb.net)  | 3 | 6 | 1 | 2 | 🟩 |
+| 2 | [francescobianco/btproxy.old](https://github.com/francescobianco/btproxy.old)  | 3 | 3 | 1 | 1 | 🟩 |
+| 3 | [francescobianco/matrix-theme](https://github.com/francescobianco/matrix-theme)  | 2 | 4 | 1 | 4 | 🟥 |
+| 4 | [francescobianco/hardcode.blog](https://github.com/francescobianco/hardcode.blog)  | 2 | 2 | 1 | 2 | 🟥 |
+| 5 | [francescobianco/chess-stamp-history](https://github.com/francescobianco/chess-stamp-history)  | 1 | 3 | 1 | 2 |  |
+| 6 | [francescobianco/jekyll-html-pages](https://github.com/francescobianco/jekyll-html-pages)  | 1 | 1 | 1 | 3 | 🟩 |
+| 7 | [francescobianco/convcommit](https://github.com/francescobianco/convcommit)  | 1 | 1 | 1 | 1 | 🟩 |
+| 8 | [francescobianco/mush-plugins](https://github.com/francescobianco/mush-plugins)  | 1 | 1 | 1 | 1 | 🟩 |
+| 9 | [francescobianco/open-webui-cli](https://github.com/francescobianco/open-webui-cli)  | 1 | 1 | 1 | 1 | 🟩 |
+| 10 | [francescobianco/markdown-games](https://github.com/francescobianco/markdown-games)  | 1 | 1 | 1 | 0 | 🟥 |
+| 11 | [francescobianco/shell-output-guidelines](https://github.com/francescobianco/shell-output-guidelines)  | 0 | 0 | 0 | 10 |  |
+| 12 | [francescobianco/github-traffic](https://github.com/francescobianco/github-traffic)  | 0 | 0 | 0 | 4 |  |
+| 13 | [francescobianco/vintage](https://github.com/francescobianco/vintage)  | 0 | 0 | 0 | 4 |  |
+| 14 | [francescobianco/blackbox](https://github.com/francescobianco/blackbox)  | 0 | 0 | 0 | 3 |  |
+| 15 | [francescobianco/rtail](https://github.com/francescobianco/rtail) [⚠️](https://github.com/francescobianco/rtail "Problem with default branch") | 0 | 0 | 0 | 3 |  |
+| 16 | [francescobianco/assets](https://github.com/francescobianco/assets)  | 0 | 0 | 0 | 2 |  |
+| 17 | [francescobianco/cheshire-cat](https://github.com/francescobianco/cheshire-cat)  | 0 | 0 | 0 | 2 |  |
+| 18 | [francescobianco/francesco-bianco-speaker.yafb.net](https://github.com/francescobianco/francesco-bianco-speaker.yafb.net) [⚠️](https://github.com/francescobianco/francesco-bianco-speaker.yafb.net "Problem with default branch") | 0 | 0 | 0 | 2 |  |
+| 19 | [francescobianco/json-grid-syntax](https://github.com/francescobianco/json-grid-syntax)  | 0 | 0 | 0 | 2 |  |
+| 20 | [francescobianco/lastchanges](https://github.com/francescobianco/lastchanges)  | 0 | 0 | 0 | 2 |  |
+| 21 | [francescobianco/linkedin.sh](https://github.com/francescobianco/linkedin.sh)  | 0 | 0 | 0 | 2 |  |
+| 22 | [francescobianco/profile-check](https://github.com/francescobianco/profile-check)  | 0 | 0 | 0 | 2 |  |
+| 23 | [francescobianco/qbasic](https://github.com/francescobianco/qbasic) [⚠️](https://github.com/francescobianco/qbasic "Problem with default branch") | 0 | 0 | 0 | 2 |  |
+| 24 | [francescobianco/techfeed](https://github.com/francescobianco/techfeed)  | 0 | 0 | 0 | 2 |  |
+| 25 | [francescobianco/Slim-Symfony-Dic](https://github.com/francescobianco/Slim-Symfony-Dic) [⚠️](https://github.com/francescobianco/Slim-Symfony-Dic "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 26 | [francescobianco/TB-7504X](https://github.com/francescobianco/TB-7504X)  | 0 | 0 | 0 | 1 |  |
+| 27 | [francescobianco/acurl](https://github.com/francescobianco/acurl)  | 0 | 0 | 0 | 1 |  |
+| 28 | [francescobianco/aeterna](https://github.com/francescobianco/aeterna)  | 0 | 0 | 0 | 1 |  |
+| 29 | [francescobianco/age-of-developers](https://github.com/francescobianco/age-of-developers)  | 0 | 0 | 0 | 1 |  |
+| 30 | [francescobianco/alphabetor](https://github.com/francescobianco/alphabetor)  | 0 | 0 | 0 | 1 |  |
+| 31 | [francescobianco/arxiv](https://github.com/francescobianco/arxiv)  | 0 | 0 | 0 | 1 |  |
+| 32 | [francescobianco/awesome-api](https://github.com/francescobianco/awesome-api) [⚠️](https://github.com/francescobianco/awesome-api "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 33 | [francescobianco/awesome-bash](https://github.com/francescobianco/awesome-bash) [⚠️](https://github.com/francescobianco/awesome-bash "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 34 | [francescobianco/awesome-documentation-tools](https://github.com/francescobianco/awesome-documentation-tools) [⚠️](https://github.com/francescobianco/awesome-documentation-tools "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 35 | [francescobianco/awesome-italia-opensource](https://github.com/francescobianco/awesome-italia-opensource)  | 0 | 0 | 0 | 1 |  |
+| 36 | [francescobianco/awesome-nocode-lowcode-1](https://github.com/francescobianco/awesome-nocode-lowcode-1)  | 0 | 0 | 0 | 1 |  |
+| 37 | [francescobianco/awesome-openapi3](https://github.com/francescobianco/awesome-openapi3) [⚠️](https://github.com/francescobianco/awesome-openapi3 "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 38 | [francescobianco/awesome-php](https://github.com/francescobianco/awesome-php) [⚠️](https://github.com/francescobianco/awesome-php "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 39 | [francescobianco/awesome-rest](https://github.com/francescobianco/awesome-rest) [⚠️](https://github.com/francescobianco/awesome-rest "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 40 | [francescobianco/awesome-shell](https://github.com/francescobianco/awesome-shell) [⚠️](https://github.com/francescobianco/awesome-shell "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 41 | [francescobianco/awesome-shell-1](https://github.com/francescobianco/awesome-shell-1) [⚠️](https://github.com/francescobianco/awesome-shell-1 "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 42 | [francescobianco/awesome-swagger](https://github.com/francescobianco/awesome-swagger) [⚠️](https://github.com/francescobianco/awesome-swagger "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 43 | [francescobianco/awesome-swagger-1](https://github.com/francescobianco/awesome-swagger-1) [⚠️](https://github.com/francescobianco/awesome-swagger-1 "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 44 | [francescobianco/awesome-term-analysis](https://github.com/francescobianco/awesome-term-analysis)  | 0 | 0 | 0 | 1 |  |
+| 45 | [francescobianco/awesome-vtiger](https://github.com/francescobianco/awesome-vtiger)  | 0 | 0 | 0 | 1 |  |
+| 46 | [francescobianco/awesome-yaml](https://github.com/francescobianco/awesome-yaml) [⚠️](https://github.com/francescobianco/awesome-yaml "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 47 | [francescobianco/awesome-yaml-1](https://github.com/francescobianco/awesome-yaml-1) [⚠️](https://github.com/francescobianco/awesome-yaml-1 "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 48 | [francescobianco/aws-sdk-php-laravel](https://github.com/francescobianco/aws-sdk-php-laravel) [⚠️](https://github.com/francescobianco/aws-sdk-php-laravel "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 49 | [francescobianco/beautiful-jekyll](https://github.com/francescobianco/beautiful-jekyll) [⚠️](https://github.com/francescobianco/beautiful-jekyll "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 50 | [francescobianco/bio](https://github.com/francescobianco/bio)  | 0 | 0 | 0 | 1 |  |
+| 51 | [francescobianco/blue-oyster-cult](https://github.com/francescobianco/blue-oyster-cult)  | 0 | 0 | 0 | 1 |  |
+| 52 | [francescobianco/books.codementor.it](https://github.com/francescobianco/books.codementor.it)  | 0 | 0 | 0 | 1 |  |
+| 53 | [francescobianco/books.yafb.net](https://github.com/francescobianco/books.yafb.net)  | 0 | 0 | 0 | 1 |  |
+| 54 | [francescobianco/brailletouch](https://github.com/francescobianco/brailletouch)  | 0 | 0 | 0 | 1 |  |
+| 55 | [francescobianco/cargo](https://github.com/francescobianco/cargo) [⚠️](https://github.com/francescobianco/cargo "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 56 | [francescobianco/chargelog](https://github.com/francescobianco/chargelog)  | 0 | 0 | 0 | 1 |  |
+| 57 | [francescobianco/clenv](https://github.com/francescobianco/clenv)  | 0 | 0 | 0 | 1 |  |
+| 58 | [francescobianco/data.yafb.net](https://github.com/francescobianco/data.yafb.net)  | 0 | 0 | 0 | 1 |  |
+| 59 | [francescobianco/dati.lab.tp.it](https://github.com/francescobianco/dati.lab.tp.it)  | 0 | 0 | 0 | 1 |  |
+| 60 | [francescobianco/design-problems](https://github.com/francescobianco/design-problems)  | 0 | 0 | 0 | 1 |  |
+| 61 | [francescobianco/developerexperience](https://github.com/francescobianco/developerexperience)  | 0 | 0 | 0 | 1 |  |
+| 62 | [francescobianco/devices](https://github.com/francescobianco/devices)  | 0 | 0 | 0 | 1 |  |
+| 63 | [francescobianco/devops-score](https://github.com/francescobianco/devops-score)  | 0 | 0 | 0 | 1 |  |
+| 64 | [francescobianco/dnsflush](https://github.com/francescobianco/dnsflush)  | 0 | 0 | 0 | 1 |  |
+| 65 | [francescobianco/docker-compose](https://github.com/francescobianco/docker-compose)  | 0 | 0 | 0 | 1 |  |
+| 66 | [francescobianco/docker-entrypoint.sh](https://github.com/francescobianco/docker-entrypoint.sh)  | 0 | 0 | 0 | 1 |  |
+| 67 | [francescobianco/docker-novnc](https://github.com/francescobianco/docker-novnc) [⚠️](https://github.com/francescobianco/docker-novnc "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 68 | [francescobianco/docker-per-windows](https://github.com/francescobianco/docker-per-windows)  | 0 | 0 | 0 | 1 |  |
+| 69 | [francescobianco/dothosts](https://github.com/francescobianco/dothosts)  | 0 | 0 | 0 | 1 |  |
+| 70 | [francescobianco/edition-jekyll-template](https://github.com/francescobianco/edition-jekyll-template)  | 0 | 0 | 0 | 1 |  |
+| 71 | [francescobianco/elasticsearch-php](https://github.com/francescobianco/elasticsearch-php) [⚠️](https://github.com/francescobianco/elasticsearch-php "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 72 | [francescobianco/elementi-di-strategia-negli-scacchi-moderni](https://github.com/francescobianco/elementi-di-strategia-negli-scacchi-moderni)  | 0 | 0 | 0 | 1 |  |
+| 73 | [francescobianco/env.sh](https://github.com/francescobianco/env.sh)  | 0 | 0 | 0 | 1 |  |
+| 74 | [francescobianco/error](https://github.com/francescobianco/error)  | 0 | 0 | 0 | 1 |  |
+| 75 | [francescobianco/eventitech](https://github.com/francescobianco/eventitech)  | 0 | 0 | 0 | 1 |  |
+| 76 | [francescobianco/fractal](https://github.com/francescobianco/fractal)  | 0 | 0 | 0 | 1 |  |
+| 77 | [francescobianco/francescobianco](https://github.com/francescobianco/francescobianco)  | 0 | 0 | 0 | 1 |  |
+| 78 | [francescobianco/francescobianco.github.io](https://github.com/francescobianco/francescobianco.github.io)  | 0 | 0 | 0 | 1 |  |
+| 79 | [francescobianco/generate-plantuml-action](https://github.com/francescobianco/generate-plantuml-action) [⚠️](https://github.com/francescobianco/generate-plantuml-action "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 80 | [francescobianco/gif](https://github.com/francescobianco/gif)  | 0 | 0 | 0 | 1 |  |
+| 81 | [francescobianco/git-popper](https://github.com/francescobianco/git-popper)  | 0 | 0 | 0 | 1 |  |
+| 82 | [francescobianco/github-project-issue](https://github.com/francescobianco/github-project-issue)  | 0 | 0 | 0 | 1 |  |
+| 83 | [francescobianco/github-showcase](https://github.com/francescobianco/github-showcase)  | 0 | 0 | 0 | 1 |  |
+| 84 | [francescobianco/gitprofile](https://github.com/francescobianco/gitprofile) [⚠️](https://github.com/francescobianco/gitprofile "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 85 | [francescobianco/gnome](https://github.com/francescobianco/gnome)  | 0 | 0 | 0 | 1 |  |
+| 86 | [francescobianco/gnosis.yafb.net](https://github.com/francescobianco/gnosis.yafb.net)  | 0 | 0 | 0 | 1 |  |
+| 87 | [francescobianco/goldencomrades-bio](https://github.com/francescobianco/goldencomrades-bio) [⚠️](https://github.com/francescobianco/goldencomrades-bio "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 88 | [francescobianco/google-calendar-script](https://github.com/francescobianco/google-calendar-script)  | 0 | 0 | 0 | 1 |  |
+| 89 | [francescobianco/hosts](https://github.com/francescobianco/hosts)  | 0 | 0 | 0 | 1 |  |
+| 90 | [francescobianco/idea](https://github.com/francescobianco/idea)  | 0 | 0 | 0 | 1 |  |
+| 91 | [francescobianco/il-libro-open-source-governance](https://github.com/francescobianco/il-libro-open-source-governance)  | 0 | 0 | 0 | 1 |  |
+| 92 | [francescobianco/ingegneria-del-software-in-italia](https://github.com/francescobianco/ingegneria-del-software-in-italia)  | 0 | 0 | 0 | 1 |  |
+| 93 | [francescobianco/its4youcrm](https://github.com/francescobianco/its4youcrm) [⚠️](https://github.com/francescobianco/its4youcrm "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 94 | [francescobianco/js2pdf](https://github.com/francescobianco/js2pdf)  | 0 | 0 | 0 | 1 |  |
+| 95 | [francescobianco/lab.tp.it](https://github.com/francescobianco/lab.tp.it)  | 0 | 0 | 0 | 1 |  |
+| 96 | [francescobianco/laravel](https://github.com/francescobianco/laravel) [⚠️](https://github.com/francescobianco/laravel "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 97 | [francescobianco/make.sh](https://github.com/francescobianco/make.sh)  | 0 | 0 | 0 | 1 |  |
+| 98 | [francescobianco/makefile](https://github.com/francescobianco/makefile)  | 0 | 0 | 0 | 1 |  |
+| 99 | [francescobianco/makefile-standard-targets](https://github.com/francescobianco/makefile-standard-targets)  | 0 | 0 | 0 | 1 |  |
+| 100 | [francescobianco/masterclass](https://github.com/francescobianco/masterclass)  | 0 | 0 | 0 | 1 |  |
+| 101 | [francescobianco/meet.yafb.net](https://github.com/francescobianco/meet.yafb.net)  | 0 | 0 | 0 | 1 |  |
+| 102 | [francescobianco/millennio](https://github.com/francescobianco/millennio)  | 0 | 0 | 0 | 1 |  |
+| 103 | [francescobianco/mush-index](https://github.com/francescobianco/mush-index)  | 0 | 0 | 0 | 1 |  |
+| 104 | [francescobianco/mush-mock](https://github.com/francescobianco/mush-mock)  | 0 | 0 | 0 | 1 |  |
+| 105 | [francescobianco/mush-packages](https://github.com/francescobianco/mush-packages)  | 0 | 0 | 0 | 1 |  |
+| 106 | [francescobianco/mush-youtube-demo](https://github.com/francescobianco/mush-youtube-demo)  | 0 | 0 | 0 | 1 |  |
+| 107 | [francescobianco/my](https://github.com/francescobianco/my)  | 0 | 0 | 0 | 1 |  |
+| 108 | [francescobianco/myown](https://github.com/francescobianco/myown)  | 0 | 0 | 0 | 1 |  |
+| 109 | [francescobianco/mysql-backup](https://github.com/francescobianco/mysql-backup)  | 0 | 0 | 0 | 1 |  |
+| 110 | [francescobianco/nautilus-scripts](https://github.com/francescobianco/nautilus-scripts)  | 0 | 0 | 0 | 1 |  |
+| 111 | [francescobianco/node-yaml](https://github.com/francescobianco/node-yaml) [⚠️](https://github.com/francescobianco/node-yaml "Problem with default branch") | 0 | 0 | 0 | 1 |  |
+| 112 | [francescobianco/one-thing](https://github.com/francescobianco/one-thing)  | 0 | 0 | 0 | 1 |  |
+| 113 | [francescobianco/openapi-token-manager](https://github.com/francescobianco/openapi-token-manager)  | 0 | 0 | 0 | 1 |  |
 | 114 | [francescobianco/opensourcecafe](https://github.com/francescobianco/opensourcecafe)  | 0 | 0 | 0 | 1 |  |
 | 115 | [francescobianco/pagecompare](https://github.com/francescobianco/pagecompare)  | 0 | 0 | 0 | 1 |  |
 | 116 | [francescobianco/personalbranding](https://github.com/francescobianco/personalbranding)  | 0 | 0 | 0 | 1 |  |
